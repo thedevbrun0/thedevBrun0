@@ -1,16 +1,54 @@
-## Hi there 👋
+👨‍💻 Bruno Rodrigues
 
-<!--
-**thedevbrun0/thedevBrun0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  Desenvolvedor Front-End em formação.
+  Apaixonado por transformar ideias em experiências reais através do código.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### 🌱 Sobre mim
+
+Sou um desenvolvedor Front-End em formação, estudando **HTML**, **CSS** e **JavaScript**, e buscando me aperfeiçoar em **UX/UI Design**.  
+Amo ver o código funcionando e imaginar como ele pode resolver problemas e facilitar a vida das pessoas.  
+
+Quero contribuir para projetos que unam **tecnologia e propósito**.  
+Meu objetivo é crescer como profissional, aprender com outros desenvolvedores e criar aplicações que impactem positivamente o dia a dia das pessoas.
+
+---
+
+### 🛠️ Tecnologias e ferramentas
+
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-FF7262?style=for-the-badge&logo=figma&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+
+
+---
+
+### 🚀 Objetivo
+
+Criar experiências digitais que conectem **design e funcionalidade**, ajudando pessoas por meio da tecnologia.  
+Busco minha primeira oportunidade como desenvolvedor Front-End, para continuar aprendendo e contribuindo com dedicação e criatividade.  
+
+---
+
+### 📫 Contato
+
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-henrique-rodrigues-2482b2293)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thedevbrun0)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thedev.bruno@gmail.com)
+
+
+
+---
+
+“Acredito que cada linha de código pode ser uma semente de mudança. 🌱” 
