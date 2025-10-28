@@ -7,7 +7,7 @@
 
 ---
 
-### 🌱 Sobre mim
+### 
 
 Sou um desenvolvedor Front-End em formação, estudando **HTML**, **CSS** e **JavaScript**, e buscando me aperfeiçoar em **UX/UI Design**.  
 Amo ver o código funcionando e imaginar como ele pode resolver problemas e facilitar a vida das pessoas.  
@@ -32,14 +32,14 @@ Meu objetivo é crescer como profissional, aprender com outros desenvolvedores e
 
 ---
 
-### 🚀 Objetivo
+###   Meu Objetivo 🚀 
 
 Criar experiências digitais que conectem **design e funcionalidade**, ajudando pessoas por meio da tecnologia.  
 Busco minha primeira oportunidade como desenvolvedor Front-End, para continuar aprendendo e contribuindo com dedicação e criatividade.  
 
 ---
 
-### 📫 Contato
+### 
 
 
 
