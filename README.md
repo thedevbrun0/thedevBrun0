@@ -1,7 +1,7 @@
 👨‍💻 Bruno Rodrigues
 
 
-  Desenvolvedor Front-End em formação.
+  Desenvolvedor Front-End Júnior.
   Apaixonado por transformar ideias em experiências reais através do código.
 
 
@@ -9,8 +9,7 @@
 
 ### 
 
-Sou um desenvolvedor Front-End em formação, estudando **HTML**, **CSS** e **JavaScript**, e buscando me aperfeiçoar em **UX/UI Design**.  
-Amo ver o código funcionando e imaginar como ele pode resolver problemas e facilitar a vida das pessoas.  
+Sou um desenvolvedor Front-End. Amo ver o código funcionando e imaginar como ele pode resolver problemas e facilitar a vida das pessoas.  
 
 Quero contribuir para projetos que unam **tecnologia e propósito**.  
 Meu objetivo é crescer como profissional, aprender com outros desenvolvedores e criar aplicações que impactem positivamente o dia a dia das pessoas.
@@ -25,7 +24,6 @@ Meu objetivo é crescer como profissional, aprender com outros desenvolvedores e
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-FF7262?style=for-the-badge&logo=figma&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
@@ -35,7 +33,7 @@ Meu objetivo é crescer como profissional, aprender com outros desenvolvedores e
 ###   Meu Objetivo 🚀 
 
 Criar experiências digitais que conectem **design e funcionalidade**, ajudando pessoas por meio da tecnologia.  
-Busco minha primeira oportunidade como desenvolvedor Front-End, para continuar aprendendo e contribuindo com dedicação e criatividade.  
+Busco minha primeira oportunidade na área de desenvolvimento web, contribuindo com dedicação e criatividade.  
 
 ---
 
