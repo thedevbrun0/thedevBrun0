@@ -13,6 +13,8 @@ Sou um desenvolvedor Front-End. Amo ver o código funcionando e imaginar como el
 
 Quero contribuir para projetos que unam **tecnologia e propósito**.  
 Meu objetivo é crescer como profissional, aprender com outros desenvolvedores e criar aplicações que impactem positivamente o dia a dia das pessoas.
+Busco minha primeira oportunidade na área de desenvolvimento web, contribuindo com dedicação e criatividade.  
+
 
 ---
 
@@ -30,12 +32,6 @@ Meu objetivo é crescer como profissional, aprender com outros desenvolvedores e
 
 ---
 
-###   Meu Objetivo 🚀 
-
-Criar experiências digitais que conectem **design e funcionalidade**, ajudando pessoas por meio da tecnologia.  
-Busco minha primeira oportunidade na área de desenvolvimento web, contribuindo com dedicação e criatividade.  
-
----
 
 ### 
 
