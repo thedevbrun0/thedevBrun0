@@ -1,4 +1,4 @@
-👨‍💻 Bruno Rodrigues
+ Bruno Rodrigues
 
 
   Desenvolvedor Front-End Júnior.
@@ -18,7 +18,7 @@ Busco minha primeira oportunidade na área de desenvolvimento web, contribuindo 
 
 ---
 
-### 🛠️ Tecnologias e ferramentas
+### Tecnologias e ferramentas
 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -45,4 +45,4 @@ Busco minha primeira oportunidade na área de desenvolvimento web, contribuindo 
 
 ---
 
-“Acredito que cada linha de código pode ser uma semente de mudança. 🌱” 
+“Acredito que cada linha de código pode ser uma semente de mudança.” 
