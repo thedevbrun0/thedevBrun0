@@ -1,48 +1,76 @@
- Bruno Rodrigues
+
+ <div align="center">
+ 
+ 
+ 
+ 
+ <img width="2038" height="512" alt="thed3vbrun0_hero" src="https://github.com/user-attachments/assets/9c69565a-31a0-4b87-aec5-9c64703a1df3" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:3A2A1A,500:000000&text=thedevBrun0&fontColor=A8844A&fontFamily=monospace&fontSize=32&section=header" width="100%"/>
+ 
+
+ 
+
+ <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=500&size=26&duration=3500&pause=1200&color=A8844A&center=true&vCenter=true&width=900&lines=Desenvolvedor+Front-End" />
+ <br>
 
 
-  Desenvolvedor Front-End Júnior.
-  Apaixonado por transformar ideias em experiências reais através do código.
 
-
----
-
-### 
-
-Sou um desenvolvedor Front-End. Amo ver o código funcionando e imaginar como ele pode resolver problemas e facilitar a vida das pessoas.  
-
-Quero contribuir para projetos que unam **tecnologia e propósito**.  
-Meu objetivo é crescer como profissional, aprender com outros desenvolvedores e criar aplicações que impactem positivamente o dia a dia das pessoas.
-Busco minha primeira oportunidade na área de desenvolvimento web, contribuindo com dedicação e criatividade.  
-
-
----
-
-### Tecnologias e ferramentas
-
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
 
 ---
 
-
-### 
-
+<div align="center">
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-henrique-rodrigues-2482b2293)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thedevbrun0)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thedev.bruno@gmail.com)
+
+<img height="140" src="https://github-readme-stats.vercel.app/api?username=thedevBrun0&rank_icon=github&show_icons=true&theme=darcula&count_private=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedevBrun0&layout=compact&theme=darcula&count_private=true" />
+
+<br/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thedevBrun0&theme=darcula"/>
+
+</div>
+
+<br/>
+
+
+
+<div align="center">
+
+
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" />
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NextJS-Dark.svg" />
+
+
+
+<h2 style="color:#C2B8A3;"> Contato</h2>
+
+[![Gmail](https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=A8844A)](mailto:thedevbruno@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=A8844A&logoWidth=20)](https://www.linkedin.com/in/thedevbrun0/)
+[![Instagram](https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=A8844A)](https://www.instagram.com/thedev.bruno)
+
+</div>
+
+
+
+
+
+
+
 
 
 
 ---
 
-“Acredito que cada linha de código pode ser uma semente de mudança.” 
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:3A2A1A,100:000000&text=“Acredito+que+cada+linha+de+código+pode+ser+uma+semente+de+mudança.”&fontColor=A8844A&fontFamily=monospace&fontSize=18" width="100%"/>
+
+ </div>
