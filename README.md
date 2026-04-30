@@ -22,19 +22,20 @@
 
 <div align="center">
 
+<div align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api?username=thedevBrun0&rank_icon=github&show_icons=true&theme=darcula&count_private=true" />
+
+<br/><br/>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedevBrun0&layout=compact&theme=darcula&count_private=true" />
+
+<br/><br/>
+
+<img width="80%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thedevBrun0&theme=darcula"/>
 
 
-<img height="140" src="https://github-readme-stats.vercel.app/api?username=thedevBrun0&rank_icon=github&show_icons=true&theme=darcula&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedevBrun0&layout=compact&theme=darcula&count_private=true" />
-
-<br/>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thedevBrun0&theme=darcula"/>
-
-</div>
-
-<br/>
+<br/><br/><br/>
 
 
 
