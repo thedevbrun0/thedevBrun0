@@ -16,7 +16,12 @@
 
 
 
+## Sobre mim
 
+Comecei no desenvolvimento pela vontade de transformar ideias em experiências visuais.
+
+Hoje exploro interfaces modernas, animações e performance,
+buscando unir design, emoção e tecnologia.
 
 ---
 
