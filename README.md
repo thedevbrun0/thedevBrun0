@@ -14,10 +14,11 @@
 
 ## Sobre mim
 
-Comecei no desenvolvimento pela vontade de transformar ideias em experiências visuais.
+Sou estudante de Engenharia de Software pela UNINTER e Técnico em Desenvolvimento de Sistemas pelo SENAC.
 
-Hoje exploro interfaces modernas, animações e performance,
-buscando unir design, emoção e tecnologia.
+Atualmente, estou aprimorando meus conhecimentos em desenvolvimento Full Stack, análise de dados, Business Intelligence, banco de dados e programação, buscando compreender desde a criação de sistemas até a organização e interpretação de informações.
+
+Tenho interesse em tecnologia, resolução de problemas e desenvolvimento de soluções eficientes, sempre buscando evoluir minhas habilidades técnicas e construir projetos que unam conhecimento, prática e inovação.
 
 ---
 
