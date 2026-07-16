@@ -10,9 +10,7 @@
 
  
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=1200&color=A8844A&center=true&vCenter=true&width=900&lines=Engenharia+de+Software;Técnico+em+Desenvolvimento+de+Sistemas"/>
-
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=1200&color=A8844A&center=true&vCenter=true&width=900&lines=Engenharia+de+Software;Tecnico+em+Desenvolvimento+de+Sistemas"/>
 
 ## Sobre mim
 
