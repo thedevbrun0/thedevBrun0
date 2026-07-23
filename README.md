@@ -14,11 +14,11 @@
 
 ## Sobre mim
 
-Sou estudante de Engenharia de Software pela UNINTER e Técnico em Desenvolvimento de Sistemas pelo SENAC.
+Sou estudante de Bacharelado em Engenharia de Software pela UNINTER e Técnico em Desenvolvimento de Sistemas pelo SENAC, com foco em Desenvolvimento Back-end, Dados e Inteligência Artificial.
 
-Atualmente, estou aprimorando meus conhecimentos em desenvolvimento Full Stack, análise de dados, Business Intelligence, banco de dados e programação, buscando compreender desde a criação de sistemas até a organização e interpretação de informações.
+Atualmente, estou aprofundando meus conhecimentos em Python, Java, SQL, bancos de dados, Business Intelligence, desenvolvimento de APIs e análise de dados, por meio da graduação, cursos e projetos práticos.
 
-Tenho interesse em tecnologia, resolução de problemas e desenvolvimento de soluções eficientes, sempre buscando evoluir minhas habilidades técnicas e construir projetos que unam conhecimento, prática e inovação.
+Neste GitHub você encontrará projetos desenvolvidos durante minha formação, estudos e desafios pessoais, refletindo minha evolução técnica e meu compromisso com o aprendizado contínuo. Meu objetivo é criar soluções bem estruturadas, compartilhar conhecimento e construir uma carreira sólida na área de tecnologia.
 
 ---
 
