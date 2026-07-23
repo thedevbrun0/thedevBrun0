@@ -27,18 +27,37 @@ Neste GitHub você encontrará projetos desenvolvidos durante minha formação, 
 
 <div align="center">
 
-<img height="140"   src="https://github-readme-stats.vercel.app/api?username=thedevBrun0&rank_icon=github&show_icons=true&theme=darcula&count_private=true" />
+<img src="https://streak-stats.demolab.com?user=thedevbrun0&theme=darcula"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedevBrun0&layout=compact&theme=darcula&count_private=true" />
+</div>
 
-<br/>
+<div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thedevBrun0&theme=darcula"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thedevbrun0&theme=darcula"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thedevbrun0&theme=github-dark"/>
 
 </div>
 
 
 <br/><br/><br/>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
