@@ -37,11 +37,7 @@ Neste GitHub você encontrará projetos desenvolvidos durante minha formação, 
 
 </div>
 
-<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thedevbrun0&theme=github-dark"/>
-
-</div>
 
 
 <br/><br/><br/>
