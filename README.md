@@ -1,13 +1,16 @@
 
  <div align="center">
  
- 
+
  
  
  <img width="2038" height="512" alt="thed3vbrun0_hero" src="https://github.com/user-attachments/assets/9c69565a-31a0-4b87-aec5-9c64703a1df3" />
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:3A2A1A,500:000000&text=thedevBrun0&fontColor=A8844A&fontFamily=monospace&fontSize=32&section=header" width="100%"/>
  
-
+  [![Gmail](https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=A8844A)](mailto:thedevbruno@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=A8844A&logoWidth=20)](https://www.linkedin.com/in/thedevbrun0/)
+[![Instagram](https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=A8844A)](https://www.instagram.com/thedev.bruno)
  
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=2000&pause=1000&color=A8844A&center=true&vCenter=true&width=900&lines=Engenharia+de+Software;Tecnico+em+Desenvolvimento+de+Sistemas"/>
